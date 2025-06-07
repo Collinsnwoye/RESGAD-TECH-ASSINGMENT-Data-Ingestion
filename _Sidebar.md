@@ -1,0 +1,5 @@
+- [[Home]]
+- [[Data Ingestion]]
+- [[Data Ingestion: Batch Mode|Batch]]
+- [[Data Ingestion: Batch: Python|Python Batch]]
+- [[Data Ingestion: Batch: SQL|SQL Batch]]
