@@ -16,7 +16,7 @@ It generates random sample data, processes it in chunks (batches), applies a sim
   Transforms each record in a batch by adding a new field `transformed_value` (`value × 1.1`).
 
 - **`load_data(batch)`**  
-  Simulates loading the transformed records into a database by printing them to the console.
+  Simulates loading all the transformed records into a database(in this case, a Pandas DataFrame).
 
 - **`main()`**  
   Orchestrates the ETL flow: generates data, processes it in batches, transforms each batch, and "loads" it.
