@@ -1,4 +1,4 @@
-# Ingesting data in batch mode
+ # Ingesting data in batch mode
 
 ### Definition:
 **Batch ingestion** is a data processing technique whereby large volumes of data are collected, processed, and loaded into a system at scheduled intervals, rather than in real-time. This approach allows organizations to handle substantial amounts of data efficiently by grouping data into batches, which are then processed collectively. For example, a company might collect customer transaction data throughout the day and then process it in a single batch during off-peak hours. This method is particularly useful for organizations that need to process high volumes of data but do not require immediate analysis.
